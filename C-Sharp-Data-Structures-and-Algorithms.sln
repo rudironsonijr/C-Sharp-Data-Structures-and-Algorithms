@@ -44,6 +44,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{517E461B-F61E-4598-A4D9-D1ABAE070CE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sort", "Sort", "{3D3FEA4A-376A-45C5-BED1-517954BA5782}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\Exercises\Arrays\Sort\MergeSort.md = Docs\Exercises\Arrays\Sort\MergeSort.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +103,7 @@ Global
 		{DF8A6048-EC35-4A12-9E18-DFE8AAEE1315} = {A66DB0A9-94B4-4591-84D7-1B4C64344EFD}
 		{52019907-5924-4F1A-86D7-1B0C1FC9CDD7} = {8F7EDDF0-E9FC-4D7D-8DBE-3C898C8798B9}
 		{D523E1B0-B30E-44C9-936C-D45A6F34191E} = {8F7EDDF0-E9FC-4D7D-8DBE-3C898C8798B9}
+		{517E461B-F61E-4598-A4D9-D1ABAE070CE5} = {D523E1B0-B30E-44C9-936C-D45A6F34191E}
+		{3D3FEA4A-376A-45C5-BED1-517954BA5782} = {517E461B-F61E-4598-A4D9-D1ABAE070CE5}
 	EndGlobalSection
 EndGlobal
